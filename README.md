@@ -1,2 +1,2 @@
 # packages
-myself packages for python
+selfmade packages for python
