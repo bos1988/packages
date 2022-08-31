@@ -11,4 +11,4 @@ selfmade packages for python
 #### v0.2.0:
 - the LANG variable
 - English is the default language
-- you can switch to Russian
+- you can switch to Russian (for this set LANG='RU')
