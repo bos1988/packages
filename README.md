@@ -70,5 +70,8 @@ selfmade packages for python
     - Added anomaly search function `find_anomaly`
     - Added `NaFiller` class
 ---
-
-
+### v1.1.1:
+##### Bug fixes
+- **module `eda`:**
+	- Changed transparency settings in the `print_scatter` function
+---
