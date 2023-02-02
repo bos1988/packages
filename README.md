@@ -75,3 +75,7 @@ selfmade packages for python
 - **module `eda`:**
 	- Changed transparency settings in the `print_scatter` function
 ---
+### v1.2.0:
+##### Mods
+- **module `eda`:**
+	- Added `legacy` version for function `print_corr` for work with Kaggle
