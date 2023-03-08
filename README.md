@@ -79,3 +79,8 @@ selfmade packages for python
 ##### Mods
 - **module `eda`:**
 	- Added `legacy` version for function `print_corr` for work with Kaggle
+---
+### v1.2.1:
+##### Bug fixes
+- **module `ml`:**
+	- Removed the change of input parameters inside the `ascending_grid` function. Now a deep copy is being created
